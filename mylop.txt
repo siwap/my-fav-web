@@ -77,7 +77,7 @@ if(isset($_GET["upd"])) {
     echo "$cmd\n";
     exe($cmd);
     exe("ls -al");
-    if(file_exists($new) && filesize($new)>15000) {
+    if(file_exists($new) && filesize($new)>10000) {
         chmod($oldfile,"0644");
         $ret=rename($new,$oldfile);
         if($ret) {
